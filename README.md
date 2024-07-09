@@ -4,7 +4,7 @@
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa], 
-and is copyright of Matthew Alexander Brown.
+and is copyright of Matthew Alexander Brown ([@Mushakushi](https://github.com/Mushakushi)).
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
